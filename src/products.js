@@ -9,37 +9,37 @@ const PRODUCTS = [
   {
     id: 1,
     productName: "desk",
-    price: 999.0,
+    price: 200.0,
     productImage: product1,
   },
   {
     id: 2,
     productName: "headset",
-    price: 999.0,
+    price: 70.0,
     productImage: product2,
   },
   {
     id: 3,
     productName: "keyboard",
-    price: 999.0,
+    price: 100.0,
     productImage: product3,
   },
   {
     id: 4,
     productName: "mouse",
-    price: 999.0,
+    price: 65.0,
     productImage: product4,
   },
   {
     id: 5,
     productName: "notepad",
-    price: 999.0,
+    price: 15.0,
     productImage: product5,
   },
   {
     id: 6,
     productName: "phone",
-    price: 999.0,
+    price: 1000.0,
     productImage: product6,
   },
 ];

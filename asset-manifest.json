@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/adriel-lopez-1/static/css/main.1091c5d9.css",
+    "main.js": "/adriel-lopez-1/static/js/main.defa16cb.js",
+    "static/media/headset.jpg": "/adriel-lopez-1/static/media/headset.0064e3a454bf9e4b260a.jpg",
+    "static/media/phone.jpg": "/adriel-lopez-1/static/media/phone.8287a5f617e905c42ee1.jpg",
+    "static/media/notepad.jpg": "/adriel-lopez-1/static/media/notepad.6c8457efb531d54307c1.jpg",
+    "static/media/mouse.jpg": "/adriel-lopez-1/static/media/mouse.7182664446d23b0875b0.jpg",
+    "static/media/keyboard.jpg": "/adriel-lopez-1/static/media/keyboard.a7637c2aec28af12ea0e.jpg",
+    "static/media/desk.jpg": "/adriel-lopez-1/static/media/desk.5bdc136642b2a593df50.jpg",
+    "index.html": "/adriel-lopez-1/index.html",
+    "main.1091c5d9.css.map": "/adriel-lopez-1/static/css/main.1091c5d9.css.map",
+    "main.defa16cb.js.map": "/adriel-lopez-1/static/js/main.defa16cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1091c5d9.css",
+    "static/js/main.defa16cb.js"
+  ]
+}
